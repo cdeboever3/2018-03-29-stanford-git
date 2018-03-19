@@ -60,9 +60,9 @@ $ git checkout <unique ID of last commit> data_cruncher.py
 Both 2 and 4
 ```
 ### Capstone project:
-Create new repository
-Write shell script to [practice something from shell]
-Commit script and push to GitHub
-Write shell script to [practice something else from shell]
-Commit script and push to GitHub
-Clone your neighbor's repo from GitHub and look at their scripts
+* Create new repository
+* Write shell script to [practice something from shell]
+* Commit script and push to GitHub
+* Write shell script to [practice something else from shell]
+* Commit script and push to GitHub
+* Clone your neighbor's repo from GitHub and look at their scripts
